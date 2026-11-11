@@ -1,0 +1,11 @@
+# Do not publish dataset files, videos or model weights
+data/
+*.mp4
+*.avi
+*.pt
+*.pth
+*.onnx
+*.npz
+*.zip
+__pycache__/
+.ipynb_checkpoints/
