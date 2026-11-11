@@ -24,9 +24,12 @@ and built the system; my project partner wrote the report.
 | `notebooks/03B_Automatic_Pitch_Calibration_v2.ipynb` | Automatic pitch calibration, version 2 |
 | `notebooks/05_Football_Vision_Analytics_Studio.ipynb` | Gradio dashboard |
 
-Two further notebooks, pitch calibration and homography (03) and tracker comparison, team identification
-and movement analysis (04), are too large to host here in their current form and will be added once their
-outputs are trimmed.
+Two further notebooks are too large to host on GitHub, so they open in Google Colab:
+
+| Notebook | Stage |
+|---|---|
+| [03_Pitch_Calibration_and_Homography](https://colab.research.google.com/drive/1rjyKBC7qWatQjtE8a_Xn6uwDNQvO9G-0) | Pitch calibration and homography |
+| [04_Player_Tracking_and_Movement_Analysis](https://colab.research.google.com/drive/19ky0CKL3VpzwD3h7oxvuCVpL-d0yW7Gv) | Tracker comparison, team identification and movement analysis |
 
 ## Results
 
